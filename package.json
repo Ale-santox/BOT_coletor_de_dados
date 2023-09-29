@@ -1,14 +1,14 @@
 {
   "name": "bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "um bot para coletar dados",
   "main": "bot.js",
   "scripts": {
     "start": "node ./src/bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Alexandre Santos Lima",
+  "license": "MIT",
   "dependencies": {
     "@wppconnect-team/wppconnect": "^1.28.0",
     "firebase-admin": "^11.10.1"
