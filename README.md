@@ -1,1 +1,2 @@
-Antes de iniciar o projeto, no seu terminal digite "npm init" para baixar todas as dependencias do código, depois digite npm start e seja feliz.
+Antes de iniciar o projeto, digite no seu terminal "npm init" para baixar todas as dependências do código, depois digite npm start e seja feliz.
+este é meu 4° projeto, decidi avançar em meus estudos com JavaScript.
