@@ -32,7 +32,7 @@ async function queryUserByPhone(client, message) {
 async function stages(client, message, userdata) {
   console.log('Mensagem recebida:', message.body); // Log para depuração
   if (userStages[message.from] == undefined) {
-    sendWppMessage(client, message.from, `Olá, sou Jarvis, coletor de dados da (nome da empresa)`);
+    sendWppMessage(client, message.from, `Olá, sou Jarvis, coletor de dados da Perfume Import Company`);
   }
   if (userdata['nome'] == undefined) {
     if (userStages[message.from] == undefined) {
